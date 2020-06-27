@@ -1,5 +1,10 @@
 {
   "movie": {
-    "name": "Iron Man"
-  }
+  "title": "Iron Man",
+  "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+  "runTime": "126",
+  "release_date": "2008-04-30",
+  "rating": "7.6",
+  "imgUrl": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+}
 }
